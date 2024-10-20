@@ -2,6 +2,9 @@ import org.junit.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+
+//写的很好
+
 public class L2022211924_2_Test{
     Solution2 solution2 = new Solution2();
     @Test
